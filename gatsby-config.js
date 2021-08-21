@@ -28,7 +28,7 @@ module.exports = {
     ],
     contact: {
       phone: "(647) 472-1727",
-      email: "stardustjazzduo3@gmail.com",
+      email: "victor@stardustjazzduo.ca",
     },
     menuLinks: [
       {
